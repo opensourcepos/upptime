@@ -14,8 +14,9 @@ sites:
 
 status-website:
 
+  cname: status.opensourcepos.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Deployment page uptime monitor"
