@@ -1,7 +1,7 @@
 url: https://dev.opensourcepos.org
-status: up
-code: 200
-responseTime: 929
-lastUpdated: 2021-10-18T23:08:27.797Z
+status: down
+code: 502
+responseTime: 691
+lastUpdated: 2021-10-19T21:06:45.209Z
 startTime: Mon Dec 28 2020 11:04:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
