@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/demo.opensourcepos.org",
     "slug": "demo",
     "status": "up",
-    "uptime": "96.39%",
+    "uptime": "96.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.22%",
     "uptimeYear": "96.39%",
     "time": 705,
-    "timeDay": 554,
-    "timeWeek": 770,
-    "timeMonth": 656,
-    "timeYear": 705,
+    "timeDay": 877,
+    "timeWeek": 787,
+    "timeMonth": 661,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2021-12-14": 1341,
       "2021-12-13": 1440,
@@ -68,8 +68,7 @@
       "2021-01-10": 202,
       "2021-01-02": 312,
       "2020-12-31": 87,
-      "2020-12-30": 1258,
-      "2020-12-29": 745
+      "2020-12-30": 1258
     }
   },
   {
@@ -78,16 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "96.70%",
+    "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.01%",
     "uptimeYear": "96.70%",
-    "time": 623,
-    "timeDay": 823,
-    "timeWeek": 658,
-    "timeMonth": 633,
-    "timeYear": 623,
+    "time": 624,
+    "timeDay": 1024,
+    "timeWeek": 703,
+    "timeMonth": 643,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2021-12-14": 1341,
       "2021-12-13": 1281,
@@ -132,8 +131,7 @@
       "2021-01-10": 202,
       "2021-01-02": 312,
       "2020-12-31": 86,
-      "2020-12-30": 1258,
-      "2020-12-29": 745
+      "2020-12-30": 1258
     }
   },
   {
@@ -142,16 +140,16 @@
     "icon": "https://favicons.githubusercontent.com/translate.opensourcepos.org",
     "slug": "weblate",
     "status": "up",
-    "uptime": "96.47%",
+    "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.47%",
-    "time": 2388,
-    "timeDay": 2678,
-    "timeWeek": 2432,
-    "timeMonth": 2795,
-    "timeYear": 2388,
+    "time": 2392,
+    "timeDay": 3819,
+    "timeWeek": 2593,
+    "timeMonth": 2821,
+    "timeYear": 2390,
     "dailyMinutesDown": {
       "2021-09-29": 702,
       "2021-09-28": 1440,
@@ -183,8 +181,7 @@
       "2021-01-20": 1287,
       "2021-01-19": 34,
       "2021-01-02": 541,
-      "2020-12-31": 85,
-      "2020-12-29": 62
+      "2020-12-31": 85
     }
   }
 ]
