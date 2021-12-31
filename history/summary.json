@@ -13,7 +13,7 @@
     "time": 706,
     "timeDay": 608,
     "timeWeek": 817,
-    "timeMonth": 679,
+    "timeMonth": 676,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2021-12-14": 1341,
@@ -66,8 +66,7 @@
       "2021-01-30": 1440,
       "2021-01-29": 51,
       "2021-01-10": 202,
-      "2021-01-02": 312,
-      "2020-12-31": 87
+      "2021-01-02": 312
     }
   },
   {
@@ -84,7 +83,7 @@
     "time": 625,
     "timeDay": 833,
     "timeWeek": 854,
-    "timeMonth": 662,
+    "timeMonth": 659,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2021-12-14": 1341,
@@ -128,8 +127,7 @@
       "2021-01-30": 1440,
       "2021-01-29": 51,
       "2021-01-10": 202,
-      "2021-01-02": 312,
-      "2020-12-31": 86
+      "2021-01-02": 312
     }
   },
   {
@@ -137,19 +135,20 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://favicons.githubusercontent.com/translate.opensourcepos.org",
     "slug": "weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "96.48%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "96.47%",
-    "time": 2434,
-    "timeDay": 3743,
-    "timeWeek": 3763,
-    "timeMonth": 3184,
-    "timeYear": 2432,
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "96.46%",
+    "time": 2435,
+    "timeDay": 3632,
+    "timeWeek": 3710,
+    "timeMonth": 3165,
+    "timeYear": 2433,
     "dailyMinutesDown": {
-      "2021-12-30": 66,
+      "2021-12-31": 1,
+      "2021-12-30": 78,
       "2021-12-29": 19,
       "2021-09-29": 702,
       "2021-09-28": 1440,
@@ -180,8 +179,7 @@
       "2021-01-29": 51,
       "2021-01-20": 1287,
       "2021-01-19": 34,
-      "2021-01-02": 541,
-      "2020-12-31": 85
+      "2021-01-02": 541
     }
   }
 ]
