@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/demo.opensourcepos.org",
     "slug": "demo",
     "status": "up",
-    "uptime": "96.37%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.51%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "96.56%",
-    "time": 703,
-    "timeDay": 412,
-    "timeWeek": 764,
-    "timeMonth": 674,
+    "time": 702,
+    "timeDay": 522,
+    "timeWeek": 731,
+    "timeMonth": 665,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2022-01-24": 251,
@@ -67,8 +67,7 @@
       "2021-02-02": 675,
       "2021-02-01": 1440,
       "2021-01-31": 1440,
-      "2021-01-30": 1440,
-      "2021-01-29": 51
+      "2021-01-30": 1440
     }
   },
   {
@@ -77,16 +76,16 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "96.79%",
+    "uptime": "96.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "97.87%",
     "uptimeYear": "97.02%",
     "time": 624,
-    "timeDay": 434,
-    "timeWeek": 695,
-    "timeMonth": 636,
-    "timeYear": 600,
+    "timeDay": 521,
+    "timeWeek": 660,
+    "timeMonth": 623,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2022-01-24": 31,
       "2022-01-13": 70,
@@ -130,8 +129,7 @@
       "2021-02-02": 675,
       "2021-02-01": 1440,
       "2021-01-31": 1440,
-      "2021-01-30": 1440,
-      "2021-01-29": 51
+      "2021-01-30": 1440
     }
   },
   {
@@ -140,16 +138,16 @@
     "icon": "https://favicons.githubusercontent.com/translate.opensourcepos.org",
     "slug": "weblate",
     "status": "up",
-    "uptime": "96.51%",
+    "uptime": "96.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.28%",
     "uptimeMonth": "96.94%",
     "uptimeYear": "96.60%",
-    "time": 2869,
-    "timeDay": 2607,
-    "timeWeek": 6437,
-    "timeMonth": 5408,
-    "timeYear": 2919,
+    "time": 2864,
+    "timeDay": 478,
+    "timeWeek": 6403,
+    "timeMonth": 5365,
+    "timeYear": 2914,
     "dailyMinutesDown": {
       "2022-01-25": 40,
       "2022-01-24": 720,
@@ -183,8 +181,7 @@
       "2021-02-02": 654,
       "2021-02-01": 1440,
       "2021-01-31": 1440,
-      "2021-01-30": 1440,
-      "2021-01-29": 51
+      "2021-01-30": 1440
     }
   }
 ]
