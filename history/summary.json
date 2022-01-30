@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.51%",
     "uptimeMonth": "96.07%",
-    "uptimeYear": "96.56%",
+    "uptimeYear": "96.58%",
     "time": 702,
-    "timeDay": 522,
-    "timeWeek": 731,
-    "timeMonth": 665,
+    "timeDay": 455,
+    "timeWeek": 714,
+    "timeMonth": 646,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2022-01-24": 251,
@@ -66,8 +66,7 @@
       "2021-02-10": 9,
       "2021-02-02": 675,
       "2021-02-01": 1440,
-      "2021-01-31": 1440,
-      "2021-01-30": 1440
+      "2021-01-31": 1440
     }
   },
   {
@@ -76,16 +75,16 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "96.80%",
+    "uptime": "96.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "97.87%",
-    "uptimeYear": "97.02%",
+    "uptimeYear": "97.04%",
     "time": 624,
-    "timeDay": 521,
-    "timeWeek": 660,
-    "timeMonth": 623,
-    "timeYear": 599,
+    "timeDay": 464,
+    "timeWeek": 629,
+    "timeMonth": 606,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2022-01-24": 31,
       "2022-01-13": 70,
@@ -128,8 +127,7 @@
       "2021-02-22": 306,
       "2021-02-02": 675,
       "2021-02-01": 1440,
-      "2021-01-31": 1440,
-      "2021-01-30": 1440
+      "2021-01-31": 1440
     }
   },
   {
@@ -138,16 +136,16 @@
     "icon": "https://favicons.githubusercontent.com/translate.opensourcepos.org",
     "slug": "weblate",
     "status": "up",
-    "uptime": "96.52%",
+    "uptime": "96.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.28%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "96.60%",
-    "time": 2864,
-    "timeDay": 478,
-    "timeWeek": 6403,
-    "timeMonth": 5365,
-    "timeYear": 2914,
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.62%",
+    "time": 2863,
+    "timeDay": 2469,
+    "timeWeek": 6713,
+    "timeMonth": 5279,
+    "timeYear": 2919,
     "dailyMinutesDown": {
       "2022-01-25": 40,
       "2022-01-24": 720,
@@ -180,8 +178,7 @@
       "2021-02-21": 146,
       "2021-02-02": 654,
       "2021-02-01": 1440,
-      "2021-01-31": 1440,
-      "2021-01-30": 1440
+      "2021-01-31": 1440
     }
   }
 ]
