@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/demo.opensourcepos.org",
     "slug": "demo",
     "status": "up",
-    "uptime": "96.50%",
+    "uptime": "96.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "96.90%",
-    "uptimeYear": "97.44%",
-    "time": 698,
-    "timeDay": 423,
-    "timeWeek": 571,
-    "timeMonth": 662,
-    "timeYear": 683,
+    "uptimeYear": "97.49%",
+    "time": 697,
+    "timeDay": 626,
+    "timeWeek": 603,
+    "timeMonth": 667,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2022-03-09": 29,
       "2022-02-16": 1069,
@@ -61,8 +61,7 @@
       "2021-06-05": 321,
       "2021-05-14": 605,
       "2021-04-23": 617,
-      "2021-04-22": 262,
-      "2021-03-12": 754
+      "2021-04-22": 262
     }
   },
   {
@@ -71,16 +70,16 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "95.80%",
+    "uptime": "95.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "81.27%",
-    "uptimeYear": "96.60%",
+    "uptimeYear": "96.65%",
     "time": 624,
-    "timeDay": 332,
-    "timeWeek": 615,
-    "timeMonth": 645,
-    "timeYear": 609,
+    "timeDay": 565,
+    "timeWeek": 642,
+    "timeMonth": 648,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2022-03-09": 29,
       "2022-02-23": 595,
@@ -125,8 +124,7 @@
       "2021-06-05": 321,
       "2021-05-14": 605,
       "2021-04-23": 24,
-      "2021-04-22": 122,
-      "2021-03-12": 754
+      "2021-04-22": 122
     }
   },
   {
@@ -135,16 +133,16 @@
     "icon": "https://favicons.githubusercontent.com/translate.opensourcepos.org",
     "slug": "weblate",
     "status": "up",
-    "uptime": "96.69%",
-    "uptimeDay": "98.44%",
+    "uptime": "96.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "97.78%",
-    "uptimeYear": "97.55%",
-    "time": 3041,
-    "timeDay": 2797,
-    "timeWeek": 2666,
-    "timeMonth": 4996,
-    "timeYear": 3190,
+    "uptimeYear": "97.60%",
+    "time": 3040,
+    "timeDay": 2559,
+    "timeWeek": 2691,
+    "timeMonth": 5044,
+    "timeYear": 3201,
     "dailyMinutesDown": {
       "2022-03-10": 22,
       "2022-02-17": 765,
@@ -173,8 +171,7 @@
       "2021-06-27": 1440,
       "2021-06-26": 1440,
       "2021-06-25": 911,
-      "2021-06-15": 38,
-      "2021-03-12": 754
+      "2021-06-15": 38
     }
   }
 ]
