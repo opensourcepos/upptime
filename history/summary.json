@@ -11,9 +11,9 @@
     "uptimeMonth": "81.12%",
     "uptimeYear": "95.33%",
     "time": 845,
-    "timeDay": 541,
-    "timeWeek": 3379,
-    "timeMonth": 1328,
+    "timeDay": 677,
+    "timeWeek": 3381,
+    "timeMonth": 1340,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2022-05-29": 16,
@@ -79,8 +79,7 @@
       "2021-06-15": 39,
       "2021-06-08": 447,
       "2021-06-07": 95,
-      "2021-06-06": 686,
-      "2021-06-05": 321
+      "2021-06-06": 686
     }
   },
   {
@@ -89,14 +88,14 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "93.65%",
+    "uptime": "93.66%",
     "uptimeDay": "98.19%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "81.10%",
     "uptimeYear": "92.86%",
     "time": 673,
-    "timeDay": 574,
-    "timeWeek": 618,
+    "timeDay": 692,
+    "timeWeek": 600,
     "timeMonth": 652,
     "timeYear": 697,
     "dailyMinutesDown": {
@@ -168,8 +167,7 @@
       "2021-06-15": 39,
       "2021-06-08": 447,
       "2021-06-07": 95,
-      "2021-06-06": 686,
-      "2021-06-05": 321
+      "2021-06-06": 686
     }
   },
   {
@@ -183,11 +181,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.69%",
-    "time": 3066,
-    "timeDay": 2220,
-    "timeWeek": 3245,
-    "timeMonth": 2788,
-    "timeYear": 3277,
+    "time": 3068,
+    "timeDay": 2970,
+    "timeWeek": 3103,
+    "timeMonth": 2783,
+    "timeYear": 3279,
     "dailyMinutesDown": {
       "2022-06-02": 18,
       "2022-05-02": 38,
