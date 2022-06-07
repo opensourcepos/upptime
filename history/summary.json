@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/demo.opensourcepos.org",
     "slug": "demo",
     "status": "up",
-    "uptime": "95.29%",
+    "uptime": "95.30%",
     "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "81.08%",
-    "uptimeYear": "95.51%",
+    "uptimeYear": "95.52%",
     "time": 873,
-    "timeDay": 7294,
-    "timeWeek": 2818,
-    "timeMonth": 1842,
+    "timeDay": 7329,
+    "timeWeek": 2801,
+    "timeMonth": 1840,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2022-06-06": 18,
@@ -78,8 +78,7 @@
       "2021-06-22": 921,
       "2021-06-21": 750,
       "2021-06-15": 39,
-      "2021-06-08": 447,
-      "2021-06-07": 95
+      "2021-06-08": 447
     }
   },
   {
@@ -88,14 +87,14 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "93.68%",
+    "uptime": "93.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "81.10%",
-    "uptimeYear": "93.05%",
+    "uptimeYear": "93.06%",
     "time": 673,
-    "timeDay": 563,
-    "timeWeek": 598,
+    "timeDay": 552,
+    "timeWeek": 584,
     "timeMonth": 648,
     "timeYear": 697,
     "dailyMinutesDown": {
@@ -165,8 +164,7 @@
       "2021-06-22": 921,
       "2021-06-21": 750,
       "2021-06-15": 39,
-      "2021-06-08": 447,
-      "2021-06-07": 95
+      "2021-06-08": 447
     }
   },
   {
@@ -175,16 +173,16 @@
     "icon": "https://favicons.githubusercontent.com/translate.opensourcepos.org",
     "slug": "weblate",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.69%",
-    "time": 3072,
-    "timeDay": 4721,
-    "timeWeek": 3246,
-    "timeMonth": 2816,
-    "timeYear": 3288,
+    "time": 3073,
+    "timeDay": 2670,
+    "timeWeek": 2925,
+    "timeMonth": 2819,
+    "timeYear": 3289,
     "dailyMinutesDown": {
       "2022-06-02": 18,
       "2022-05-02": 38,
