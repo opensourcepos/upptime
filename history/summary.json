@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/demo.opensourcepos.org",
     "slug": "demo",
     "status": "up",
-    "uptime": "95.43%",
+    "uptime": "95.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "95.93%",
     "time": 868,
-    "timeDay": 497,
-    "timeWeek": 666,
-    "timeMonth": 2104,
-    "timeYear": 993,
+    "timeDay": 536,
+    "timeWeek": 638,
+    "timeMonth": 2096,
+    "timeYear": 995,
     "dailyMinutesDown": {
       "2022-06-21": 45,
       "2022-06-15": 18,
@@ -75,8 +75,7 @@
       "2021-07-13": 50,
       "2021-07-06": 320,
       "2021-07-03": 13,
-      "2021-06-30": 79,
-      "2021-06-25": 12
+      "2021-06-30": 79
     }
   },
   {
@@ -85,16 +84,16 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "93.88%",
+    "uptime": "93.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "93.48%",
     "time": 681,
-    "timeDay": 579,
-    "timeWeek": 756,
-    "timeMonth": 695,
-    "timeYear": 702,
+    "timeDay": 527,
+    "timeWeek": 645,
+    "timeMonth": 696,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2022-06-21": 43,
       "2022-06-04": 26,
@@ -156,8 +155,7 @@
       "2021-07-14": 188,
       "2021-07-13": 50,
       "2021-07-06": 320,
-      "2021-06-30": 79,
-      "2021-06-25": 12
+      "2021-06-30": 79
     }
   },
   {
@@ -167,17 +165,16 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "97.29%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "97.67%",
     "time": 3142,
-    "timeDay": 3455,
-    "timeWeek": 3354,
-    "timeMonth": 3281,
-    "timeYear": 3341,
+    "timeDay": 3422,
+    "timeWeek": 2982,
+    "timeMonth": 3335,
+    "timeYear": 3339,
     "dailyMinutesDown": {
-      "2022-06-24": 11,
       "2022-06-21": 42,
       "2022-06-15": 19,
       "2022-06-13": 51,
@@ -213,8 +210,7 @@
       "2021-06-29": 1229,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
-      "2021-06-26": 1440,
-      "2021-06-25": 911
+      "2021-06-26": 1440
     }
   }
 ]
