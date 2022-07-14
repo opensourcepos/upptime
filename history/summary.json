@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/demo.opensourcepos.org",
     "slug": "demo",
     "status": "up",
-    "uptime": "95.58%",
+    "uptime": "95.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "96.01%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "96.02%",
     "time": 952,
-    "timeDay": 6710,
-    "timeWeek": 1917,
-    "timeMonth": 1365,
-    "timeYear": 1029,
+    "timeDay": 748,
+    "timeWeek": 1930,
+    "timeMonth": 1010,
+    "timeYear": 1033,
     "dailyMinutesDown": {
       "2022-07-11": 25,
       "2022-06-21": 45,
@@ -71,8 +71,7 @@
       "2021-08-04": 113,
       "2021-08-03": 19,
       "2021-07-30": 31,
-      "2021-07-27": 29,
-      "2021-07-14": 188
+      "2021-07-27": 29
     }
   },
   {
@@ -81,16 +80,16 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "94.08%",
+    "uptime": "94.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "93.56%",
+    "uptimeYear": "93.57%",
     "time": 722,
-    "timeDay": 751,
-    "timeWeek": 783,
-    "timeMonth": 1299,
-    "timeYear": 758,
+    "timeDay": 549,
+    "timeWeek": 756,
+    "timeMonth": 1315,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2022-07-05": 21,
       "2022-06-21": 43,
@@ -149,8 +148,7 @@
       "2021-08-10": 48,
       "2021-08-05": 54,
       "2021-08-04": 113,
-      "2021-07-27": 29,
-      "2021-07-14": 188
+      "2021-07-27": 29
     }
   },
   {
@@ -162,12 +160,12 @@
     "uptime": "97.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.60%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "98.89%",
-    "time": 3150,
-    "timeDay": 2975,
-    "timeWeek": 2613,
-    "timeMonth": 2964,
+    "time": 3149,
+    "timeDay": 2346,
+    "timeWeek": 2593,
+    "timeMonth": 2938,
     "timeYear": 3372,
     "dailyMinutesDown": {
       "2022-07-09": 44,
@@ -202,8 +200,7 @@
       "2021-08-06": 10,
       "2021-07-23": 437,
       "2021-07-22": 52,
-      "2021-07-21": 27,
-      "2021-07-14": 19
+      "2021-07-21": 27
     }
   }
 ]
