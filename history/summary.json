@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/demo.opensourcepos.org",
     "slug": "demo",
     "status": "down",
-    "uptime": "95.71%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "95.98%",
-    "time": 1061,
-    "timeDay": 639,
-    "timeWeek": 703,
-    "timeMonth": 2143,
+    "uptime": "95.56%",
+    "uptimeDay": "8.66%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "95.45%",
+    "uptimeYear": "95.73%",
+    "time": 1059,
+    "timeDay": 477,
+    "timeWeek": 666,
+    "timeMonth": 2139,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2022-08-09": 0,
+      "2022-08-10": 109,
+      "2022-08-09": 1207,
       "2022-08-03": 26,
       "2022-07-23": 33,
       "2022-07-21": 114,
@@ -70,8 +71,7 @@
       "2021-08-27": 52,
       "2021-08-26": 19,
       "2021-08-24": 18,
-      "2021-08-14": 18,
-      "2021-08-10": 71
+      "2021-08-14": 18
     }
   },
   {
@@ -80,15 +80,15 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "94.34%",
+    "uptime": "94.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "93.62%",
-    "time": 797,
-    "timeDay": 565,
-    "timeWeek": 2173,
-    "timeMonth": 1754,
+    "time": 796,
+    "timeDay": 332,
+    "timeWeek": 2142,
+    "timeMonth": 1717,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2022-08-07": 15,
@@ -148,8 +148,7 @@
       "2021-09-23": 15,
       "2021-08-27": 52,
       "2021-08-26": 19,
-      "2021-08-24": 18,
-      "2021-08-10": 48
+      "2021-08-24": 18
     }
   },
   {
@@ -163,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.97%",
-    "time": 3115,
-    "timeDay": 2292,
-    "timeWeek": 3325,
-    "timeMonth": 3824,
-    "timeYear": 3486,
+    "time": 3112,
+    "timeDay": 353,
+    "timeWeek": 2837,
+    "timeMonth": 3770,
+    "timeYear": 3482,
     "dailyMinutesDown": {
       "2022-07-20": 16,
       "2022-07-19": 43,
@@ -200,8 +199,7 @@
       "2021-09-27": 314,
       "2021-08-24": 18,
       "2021-08-14": 57,
-      "2021-08-12": 11,
-      "2021-08-10": 27
+      "2021-08-12": 11
     }
   }
 ]
