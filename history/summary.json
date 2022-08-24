@@ -6,17 +6,16 @@
     "slug": "demo",
     "status": "up",
     "uptime": "95.45%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "92.77%",
     "uptimeYear": "95.40%",
     "time": 1146,
-    "timeDay": 727,
-    "timeWeek": 4744,
-    "timeMonth": 1866,
+    "timeDay": 534,
+    "timeWeek": 4746,
+    "timeMonth": 1854,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2022-08-23": 11,
       "2022-08-22": 28,
       "2022-08-18": 22,
       "2022-08-11": 445,
@@ -73,8 +72,7 @@
       "2021-09-27": 16,
       "2021-09-23": 15,
       "2021-08-27": 52,
-      "2021-08-26": 19,
-      "2021-08-24": 18
+      "2021-08-26": 19
     }
   },
   {
@@ -89,9 +87,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "93.63%",
     "time": 822,
-    "timeDay": 608,
-    "timeWeek": 2307,
-    "timeMonth": 1515,
+    "timeDay": 520,
+    "timeWeek": 2315,
+    "timeMonth": 1512,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2022-08-07": 15,
@@ -150,8 +148,7 @@
       "2021-09-27": 16,
       "2021-09-23": 15,
       "2021-08-27": 52,
-      "2021-08-26": 19,
-      "2021-08-24": 18
+      "2021-08-26": 19
     }
   },
   {
@@ -160,15 +157,15 @@
     "icon": "https://favicons.githubusercontent.com/translate.opensourcepos.org",
     "slug": "weblate",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "98.77%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.98%",
-    "time": 3275,
-    "timeDay": 2898,
-    "timeWeek": 2571,
-    "timeMonth": 3244,
+    "time": 3274,
+    "timeDay": 2117,
+    "timeWeek": 2505,
+    "timeMonth": 3168,
     "timeYear": 3484,
     "dailyMinutesDown": {
       "2022-08-23": 18,
@@ -201,8 +198,7 @@
       "2021-12-29": 19,
       "2021-09-29": 702,
       "2021-09-28": 1440,
-      "2021-09-27": 314,
-      "2021-08-24": 18
+      "2021-09-27": 314
     }
   }
 ]
