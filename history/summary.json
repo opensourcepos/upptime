@@ -10,11 +10,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "92.73%",
     "uptimeYear": "95.40%",
-    "time": 1147,
-    "timeDay": 0,
-    "timeWeek": 2662,
-    "timeMonth": 1854,
-    "timeYear": 1203,
+    "time": 1145,
+    "timeDay": 738,
+    "timeWeek": 2682,
+    "timeMonth": 1856,
+    "timeYear": 1205,
     "dailyMinutesDown": {
       "2022-08-24": 17,
       "2022-08-22": 28,
@@ -71,8 +71,7 @@
       "2021-10-04": 62,
       "2021-09-30": 21,
       "2021-09-27": 16,
-      "2021-09-23": 15,
-      "2021-08-27": 52
+      "2021-09-23": 15
     }
   },
   {
@@ -81,16 +80,16 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "94.50%",
+    "uptime": "94.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "93.63%",
+    "uptimeYear": "93.64%",
     "time": 824,
-    "timeDay": 0,
-    "timeWeek": 2339,
-    "timeMonth": 1516,
-    "timeYear": 900,
+    "timeDay": 713,
+    "timeWeek": 2360,
+    "timeMonth": 1518,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2022-08-24": 16,
       "2022-08-07": 15,
@@ -147,8 +146,7 @@
       "2021-10-04": 62,
       "2021-09-30": 21,
       "2021-09-27": 16,
-      "2021-09-23": 15,
-      "2021-08-27": 52
+      "2021-09-23": 15
     }
   },
   {
@@ -157,16 +155,16 @@
     "icon": "https://favicons.githubusercontent.com/translate.opensourcepos.org",
     "slug": "weblate",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.99%",
-    "time": 3278,
-    "timeDay": 2698,
-    "timeWeek": 2556,
-    "timeMonth": 3053,
-    "timeYear": 3482,
+    "time": 3280,
+    "timeDay": 3265,
+    "timeWeek": 2614,
+    "timeMonth": 3033,
+    "timeYear": 3484,
     "dailyMinutesDown": {
       "2022-08-23": 18,
       "2022-08-22": 22,
