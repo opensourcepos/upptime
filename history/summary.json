@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/demo.opensourcepos.org",
     "slug": "demo",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "95.41%",
     "time": 1223,
-    "timeDay": 660,
-    "timeWeek": 2839,
-    "timeMonth": 1733,
-    "timeYear": 1293,
+    "timeDay": 673,
+    "timeWeek": 2859,
+    "timeMonth": 1731,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2022-09-23": 32,
       "2022-09-07": 21,
@@ -71,8 +71,7 @@
       "2021-11-29": 25,
       "2021-10-19": 19,
       "2021-10-04": 62,
-      "2021-09-30": 21,
-      "2021-09-27": 16
+      "2021-09-30": 21
     }
   },
   {
@@ -81,16 +80,16 @@
     "icon": "https://favicons.githubusercontent.com/dev.opensourcepos.org",
     "slug": "dev",
     "status": "up",
-    "uptime": "94.75%",
+    "uptime": "94.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "93.62%",
     "time": 887,
-    "timeDay": 606,
-    "timeWeek": 663,
-    "timeMonth": 1588,
-    "timeYear": 980,
+    "timeDay": 845,
+    "timeWeek": 699,
+    "timeMonth": 1592,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2022-09-23": 32,
       "2022-09-08": 80,
@@ -148,8 +147,7 @@
       "2021-12-13": 1281,
       "2021-10-19": 19,
       "2021-10-04": 62,
-      "2021-09-30": 21,
-      "2021-09-27": 16
+      "2021-09-30": 21
     }
   },
   {
@@ -159,15 +157,15 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "97.63%",
-    "uptimeDay": "92.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "98.92%",
-    "time": 3126,
-    "timeDay": 2418,
-    "timeWeek": 2264,
-    "timeMonth": 2274,
-    "timeYear": 3466,
+    "time": 3125,
+    "timeDay": 2278,
+    "timeWeek": 2248,
+    "timeMonth": 2248,
+    "timeYear": 3467,
     "dailyMinutesDown": {
       "2022-09-25": 108,
       "2022-09-23": 31,
@@ -202,8 +200,7 @@
       "2021-12-30": 66,
       "2021-12-29": 19,
       "2021-09-29": 702,
-      "2021-09-28": 1440,
-      "2021-09-27": 314
+      "2021-09-28": 1440
     }
   }
 ]
