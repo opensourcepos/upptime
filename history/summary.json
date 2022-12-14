@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "96.70%",
+    "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.33%",
-    "uptimeYear": "94.77%",
+    "uptimeYear": "94.93%",
     "time": 1478,
-    "timeDay": 6819,
-    "timeWeek": 2790,
-    "timeMonth": 3364,
-    "timeYear": 1733,
+    "timeDay": 887,
+    "timeWeek": 2822,
+    "timeMonth": 3371,
+    "timeYear": 1734,
     "dailyMinutesDown": {
       "2022-11-30": 973,
       "2022-11-29": 16,
@@ -81,8 +81,7 @@
       "2022-01-24": 251,
       "2022-01-13": 639,
       "2022-01-08": 142,
-      "2022-01-07": 692,
-      "2021-12-14": 1341
+      "2022-01-07": 692
     }
   },
   {
@@ -95,12 +94,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "93.69%",
+    "uptimeYear": "93.85%",
     "time": 1237,
-    "timeDay": 1137,
-    "timeWeek": 967,
-    "timeMonth": 3159,
-    "timeYear": 1383,
+    "timeDay": 861,
+    "timeWeek": 1004,
+    "timeMonth": 3166,
+    "timeYear": 1384,
     "dailyMinutesDown": {
       "2022-11-30": 17,
       "2022-11-25": 40,
@@ -164,8 +163,7 @@
       "2022-01-24": 31,
       "2022-01-13": 70,
       "2022-01-08": 142,
-      "2022-01-07": 692,
-      "2021-12-14": 1341
+      "2022-01-07": 692
     }
   },
   {
@@ -175,15 +173,15 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "94.21%",
+    "uptimeDay": "96.87%",
     "uptimeWeek": "98.98%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "99.13%",
-    "time": 3205,
-    "timeDay": 5796,
-    "timeWeek": 2816,
-    "timeMonth": 2162,
-    "timeYear": 3370,
+    "time": 3203,
+    "timeDay": 818,
+    "timeWeek": 2828,
+    "timeMonth": 2130,
+    "timeYear": 3366,
     "dailyMinutesDown": {
       "2022-12-13": 45,
       "2022-12-12": 57,
