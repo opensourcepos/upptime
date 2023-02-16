@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "97.36%",
-    "uptimeDay": "95.74%",
+    "uptime": "97.37%",
+    "uptimeDay": "98.95%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "95.42%",
-    "time": 1849,
-    "timeDay": 8566,
-    "timeWeek": 7181,
-    "timeMonth": 3851,
-    "timeYear": 2117,
+    "uptimeYear": "95.49%",
+    "time": 1850,
+    "timeDay": 705,
+    "timeWeek": 5956,
+    "timeMonth": 3857,
+    "timeYear": 2120,
     "dailyMinutesDown": {
       "2023-02-15": 15,
       "2023-02-14": 46,
@@ -91,8 +91,7 @@
       "2022-03-25": 1440,
       "2022-03-24": 149,
       "2022-03-16": 49,
-      "2022-03-09": 29,
-      "2022-02-16": 1069
+      "2022-03-09": 29
     }
   },
   {
@@ -102,15 +101,15 @@
     "slug": "dev",
     "status": "up",
     "uptime": "95.67%",
-    "uptimeDay": "97.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "94.23%",
-    "time": 1223,
-    "timeDay": 2771,
-    "timeWeek": 1705,
-    "timeMonth": 1389,
-    "timeYear": 1451,
+    "time": 1224,
+    "timeDay": 872,
+    "timeWeek": 1731,
+    "timeMonth": 1397,
+    "timeYear": 1452,
     "dailyMinutesDown": {
       "2023-02-14": 29,
       "2023-02-12": 35,
@@ -177,8 +176,7 @@
       "2022-02-20": 1440,
       "2022-02-19": 1440,
       "2022-02-18": 796,
-      "2022-02-17": 851,
-      "2022-02-16": 174
+      "2022-02-17": 851
     }
   },
   {
@@ -188,17 +186,16 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "97.98%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.35%",
-    "time": 3094,
-    "timeDay": 7167,
-    "timeWeek": 4268,
-    "timeMonth": 2263,
-    "timeYear": 2747,
+    "time": 3090,
+    "timeDay": 870,
+    "timeWeek": 4518,
+    "timeMonth": 2267,
+    "timeYear": 2742,
     "dailyMinutesDown": {
-      "2023-02-15": 13,
       "2023-02-14": 60,
       "2023-02-12": 40,
       "2023-02-08": 23,
@@ -246,8 +243,7 @@
       "2022-04-03": 27,
       "2022-03-16": 64,
       "2022-03-10": 22,
-      "2022-02-17": 765,
-      "2022-02-16": 186
+      "2022-02-17": 765
     }
   }
 ]
