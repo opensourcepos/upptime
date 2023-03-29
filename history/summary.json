@@ -11,9 +11,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "96.03%",
     "time": 1991,
-    "timeDay": 842,
-    "timeWeek": 799,
-    "timeMonth": 2896,
+    "timeDay": 626,
+    "timeWeek": 768,
+    "timeMonth": 2848,
     "timeYear": 2288,
     "dailyMinutesDown": {
       "2023-03-28": 59,
@@ -96,8 +96,7 @@
       "2022-04-09": 41,
       "2022-04-05": 18,
       "2022-04-04": 998,
-      "2022-04-03": 174,
-      "2022-03-29": 221
+      "2022-04-03": 174
     }
   },
   {
@@ -112,9 +111,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "97.14%",
     "time": 1534,
-    "timeDay": 5483,
-    "timeWeek": 2178,
-    "timeMonth": 2080,
+    "timeDay": 5318,
+    "timeWeek": 2163,
+    "timeMonth": 2042,
     "timeYear": 1731,
     "dailyMinutesDown": {
       "2023-03-28": 23,
@@ -174,8 +173,7 @@
       "2022-04-05": 18,
       "2022-04-04": 1022,
       "2022-04-03": 145,
-      "2022-03-30": 1343,
-      "2022-03-29": 215
+      "2022-03-30": 1343
     }
   },
   {
@@ -185,15 +183,15 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "82.22%",
+    "uptimeDay": "84.56%",
     "uptimeWeek": "96.41%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.39%",
-    "time": 2987,
-    "timeDay": 2272,
-    "timeWeek": 1572,
-    "timeMonth": 1575,
-    "timeYear": 2464,
+    "time": 2984,
+    "timeDay": 2260,
+    "timeWeek": 1569,
+    "timeMonth": 1560,
+    "timeYear": 2461,
     "dailyMinutesDown": {
       "2023-03-28": 222,
       "2023-03-27": 46,
