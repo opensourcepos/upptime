@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "97.50%",
+    "uptime": "97.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "96.12%",
-    "time": 1990,
-    "timeDay": 523,
-    "timeWeek": 580,
-    "timeMonth": 2595,
-    "timeYear": 2257,
+    "uptimeYear": "96.30%",
+    "time": 1989,
+    "timeDay": 666,
+    "timeWeek": 566,
+    "timeMonth": 2596,
+    "timeYear": 2267,
     "dailyMinutesDown": {
       "2023-03-28": 59,
       "2023-03-25": 30,
@@ -93,8 +93,7 @@
       "2022-04-22": 37,
       "2022-04-20": 863,
       "2022-04-19": 444,
-      "2022-04-09": 41,
-      "2022-04-05": 18
+      "2022-04-09": 41
     }
   },
   {
@@ -105,14 +104,14 @@
     "status": "up",
     "uptime": "96.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "97.48%",
+    "uptimeYear": "97.66%",
     "time": 1535,
-    "timeDay": 767,
-    "timeWeek": 2555,
-    "timeMonth": 1995,
-    "timeYear": 1741,
+    "timeDay": 696,
+    "timeWeek": 711,
+    "timeMonth": 1990,
+    "timeYear": 1750,
     "dailyMinutesDown": {
       "2023-03-28": 23,
       "2023-03-25": 30,
@@ -167,8 +166,7 @@
       "2022-04-19": 370,
       "2022-04-14": 459,
       "2022-04-13": 89,
-      "2022-04-09": 41,
-      "2022-04-05": 18
+      "2022-04-09": 41
     }
   },
   {
@@ -178,15 +176,15 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "94.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.25%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "99.32%",
-    "time": 2729,
-    "timeDay": 965,
-    "timeWeek": 1663,
-    "timeMonth": 1577,
-    "timeYear": 2360,
+    "time": 2718,
+    "timeDay": 620,
+    "timeWeek": 1512,
+    "timeMonth": 1576,
+    "timeYear": 2353,
     "dailyMinutesDown": {
       "2023-04-03": 25,
       "2023-04-02": 49,
@@ -249,8 +247,7 @@
       "2022-06-08": 24,
       "2022-06-02": 18,
       "2022-05-02": 38,
-      "2022-04-17": 20,
-      "2022-04-05": 42
+      "2022-04-17": 20
     }
   }
 ]
