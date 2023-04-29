@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.57%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "96.46%",
     "time": 2013,
-    "timeDay": 791,
-    "timeWeek": 2733,
-    "timeMonth": 1105,
+    "timeDay": 616,
+    "timeWeek": 2737,
+    "timeMonth": 1144,
     "timeYear": 2289,
     "dailyMinutesDown": {
       "2023-04-18": 552,
@@ -89,8 +89,7 @@
       "2022-05-20": 1440,
       "2022-05-19": 1440,
       "2022-05-18": 1249,
-      "2022-05-02": 18,
-      "2022-04-29": 17
+      "2022-05-02": 18
     }
   },
   {
@@ -99,16 +98,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "96.88%",
+    "uptime": "96.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.69%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "97.91%",
     "time": 1571,
-    "timeDay": 890,
-    "timeWeek": 775,
-    "timeMonth": 1787,
-    "timeYear": 1811,
+    "timeDay": 687,
+    "timeWeek": 798,
+    "timeMonth": 1352,
+    "timeYear": 1817,
     "dailyMinutesDown": {
       "2023-04-18": 552,
       "2023-03-28": 23,
@@ -157,8 +156,7 @@
       "2022-05-19": 1440,
       "2022-05-18": 1249,
       "2022-05-02": 18,
-      "2022-04-30": 979,
-      "2022-04-29": 37
+      "2022-04-30": 979
     }
   },
   {
@@ -170,13 +168,13 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.63%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.33%",
-    "time": 2531,
-    "timeDay": 773,
-    "timeWeek": 778,
-    "timeMonth": 1433,
-    "timeYear": 2270,
+    "time": 2523,
+    "timeDay": 2451,
+    "timeWeek": 1003,
+    "timeMonth": 1316,
+    "timeYear": 2271,
     "dailyMinutesDown": {
       "2023-04-03": 25,
       "2023-04-02": 49,
