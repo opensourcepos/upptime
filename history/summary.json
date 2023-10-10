@@ -11,10 +11,10 @@
     "uptimeMonth": "97.06%",
     "uptimeYear": "96.56%",
     "time": 2216,
-    "timeDay": 661,
-    "timeWeek": 593,
-    "timeMonth": 1185,
-    "timeYear": 2347,
+    "timeDay": 790,
+    "timeWeek": 630,
+    "timeMonth": 1192,
+    "timeYear": 2348,
     "dailyMinutesDown": {
       "2023-09-18": 584,
       "2023-09-17": 704,
@@ -83,8 +83,7 @@
       "2022-10-28": 17,
       "2022-10-23": 908,
       "2022-10-22": 1440,
-      "2022-10-21": 76,
-      "2022-10-10": 44
+      "2022-10-21": 76
     }
   },
   {
@@ -93,18 +92,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "down",
-    "uptime": "87.16%",
+    "uptime": "87.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.81%",
+    "uptimeYear": "70.54%",
     "time": 1597,
-    "timeDay": 579,
-    "timeWeek": 793,
-    "timeMonth": 706,
+    "timeDay": 772,
+    "timeWeek": 822,
+    "timeMonth": 712,
     "timeYear": 1617,
     "dailyMinutesDown": {
-      "2023-10-09": 68,
+      "2023-10-10": 68,
+      "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
@@ -243,8 +243,7 @@
       "2022-11-19": 36,
       "2022-11-12": 16,
       "2022-11-06": 18,
-      "2022-10-28": 17,
-      "2022-10-10": 43
+      "2022-10-28": 17
     }
   },
   {
@@ -256,13 +255,13 @@
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.44%",
-    "time": 1771,
-    "timeDay": 735,
-    "timeWeek": 753,
-    "timeMonth": 763,
-    "timeYear": 1554,
+    "time": 1767,
+    "timeDay": 909,
+    "timeWeek": 756,
+    "timeMonth": 769,
+    "timeYear": 1551,
     "dailyMinutesDown": {
       "2023-10-03": 17,
       "2023-09-29": 16,
@@ -314,8 +313,7 @@
       "2022-10-28": 41,
       "2022-10-22": 37,
       "2022-10-20": 26,
-      "2022-10-12": 57,
-      "2022-10-10": 43
+      "2022-10-12": 57
     }
   }
 ]
