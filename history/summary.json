@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "96.84%",
     "time": 2279,
-    "timeDay": 595,
-    "timeWeek": 614,
-    "timeMonth": 1721,
+    "timeDay": 734,
+    "timeWeek": 627,
+    "timeMonth": 1727,
     "timeYear": 2378,
     "dailyMinutesDown": {
       "2023-10-17": 660,
@@ -82,8 +82,7 @@
       "2022-11-11": 38,
       "2022-11-06": 262,
       "2022-11-04": 18,
-      "2022-11-03": 17,
-      "2022-10-28": 17
+      "2022-11-03": 17
     }
   },
   {
@@ -92,18 +91,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "down",
-    "uptime": "85.64%",
+    "uptime": "85.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "65.89%",
+    "uptimeYear": "65.62%",
     "time": 1594,
-    "timeDay": 554,
-    "timeWeek": 573,
-    "timeMonth": 690,
-    "timeYear": 1573,
+    "timeDay": 903,
+    "timeWeek": 630,
+    "timeMonth": 700,
+    "timeYear": 1574,
     "dailyMinutesDown": {
-      "2023-10-27": 67,
+      "2023-10-28": 66,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -259,8 +259,7 @@
       "2022-11-22": 47,
       "2022-11-19": 36,
       "2022-11-12": 16,
-      "2022-11-06": 18,
-      "2022-10-28": 17
+      "2022-11-06": 18
     }
   },
   {
@@ -274,11 +273,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.46%",
-    "time": 1664,
-    "timeDay": 753,
-    "timeWeek": 697,
-    "timeMonth": 1074,
-    "timeYear": 1478,
+    "time": 1660,
+    "timeDay": 1241,
+    "timeWeek": 767,
+    "timeMonth": 1076,
+    "timeYear": 1476,
     "dailyMinutesDown": {
       "2023-10-15": 15,
       "2023-10-03": 17,
@@ -327,8 +326,7 @@
       "2022-11-19": 38,
       "2022-11-12": 38,
       "2022-11-04": 29,
-      "2022-11-03": 15,
-      "2022-10-28": 41
+      "2022-11-03": 15
     }
   }
 ]
