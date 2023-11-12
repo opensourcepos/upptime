@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.35%",
+    "uptimeWeek": "80.92%",
     "uptimeMonth": "82.35%",
-    "uptimeYear": "95.62%",
+    "uptimeYear": "95.63%",
     "time": 2203,
-    "timeDay": 706,
+    "timeDay": 612,
     "timeWeek": 2141,
-    "timeMonth": 1911,
-    "timeYear": 2315,
+    "timeMonth": 1909,
+    "timeYear": 2287,
     "dailyMinutesDown": {
       "2023-11-09": 17,
       "2023-11-06": 540,
@@ -86,8 +86,7 @@
       "2022-11-24": 29,
       "2022-11-22": 32,
       "2022-11-19": 61,
-      "2022-11-13": 130,
-      "2022-11-12": 604
+      "2022-11-13": 130
     }
   },
   {
@@ -96,16 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "84.86%",
+    "uptime": "84.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.37%",
-    "uptimeMonth": "13.60%",
+    "uptimeWeek": "80.94%",
+    "uptimeMonth": "16.72%",
     "uptimeYear": "63.06%",
     "time": 1611,
-    "timeDay": 595,
+    "timeDay": 466,
     "timeWeek": 2176,
-    "timeMonth": 1052,
-    "timeYear": 1569,
+    "timeMonth": 1041,
+    "timeYear": 1568,
     "dailyMinutesDown": {
       "2023-11-09": 16,
       "2023-11-06": 540,
@@ -272,8 +271,7 @@
       "2022-11-25": 40,
       "2022-11-23": 17,
       "2022-11-22": 47,
-      "2022-11-19": 36,
-      "2022-11-12": 16
+      "2022-11-19": 36
     }
   },
   {
@@ -287,11 +285,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.47%",
-    "time": 1623,
-    "timeDay": 777,
-    "timeWeek": 1076,
-    "timeMonth": 1436,
-    "timeYear": 1450,
+    "time": 1621,
+    "timeDay": 598,
+    "timeWeek": 992,
+    "timeMonth": 1426,
+    "timeYear": 1447,
     "dailyMinutesDown": {
       "2023-10-29": 17,
       "2023-10-28": 21,
@@ -339,8 +337,7 @@
       "2022-11-25": 52,
       "2022-11-23": 16,
       "2022-11-22": 44,
-      "2022-11-19": 38,
-      "2022-11-12": 38
+      "2022-11-19": 38
     }
   }
 ]
