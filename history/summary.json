@@ -8,12 +8,12 @@
     "uptime": "97.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.53%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "93.51%",
     "time": 2177,
-    "timeDay": 601,
-    "timeWeek": 571,
-    "timeMonth": 1009,
+    "timeDay": 663,
+    "timeWeek": 586,
+    "timeMonth": 1011,
     "timeYear": 2098,
     "dailyMinutesDown": {
       "2024-01-15": 1154,
@@ -89,8 +89,7 @@
       "2023-02-09": 17,
       "2023-02-06": 25,
       "2023-02-02": 36,
-      "2023-01-31": 15,
-      "2023-01-25": 34
+      "2023-01-31": 15
     }
   },
   {
@@ -99,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "down",
-    "uptime": "85.30%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptime": "85.28%",
+    "uptimeDay": "64.11%",
+    "uptimeWeek": "94.87%",
     "uptimeMonth": "81.13%",
-    "uptimeYear": "61.29%",
+    "uptimeYear": "61.19%",
     "time": 1604,
-    "timeDay": 865,
-    "timeWeek": 1140,
-    "timeMonth": 1930,
-    "timeYear": 1489,
+    "timeDay": 734,
+    "timeWeek": 1028,
+    "timeMonth": 1935,
+    "timeYear": 1488,
     "dailyMinutesDown": {
-      "2024-01-24": 0,
+      "2024-01-25": 75,
+      "2024-01-24": 442,
       "2024-01-15": 1154,
       "2024-01-14": 990,
       "2024-01-13": 1407,
@@ -280,8 +280,7 @@
       "2023-02-14": 29,
       "2023-02-12": 35,
       "2023-02-09": 15,
-      "2023-02-02": 15,
-      "2023-01-25": 32
+      "2023-02-02": 15
     }
   },
   {
@@ -295,10 +294,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.64%",
-    "time": 1441,
-    "timeDay": 673,
-    "timeWeek": 709,
-    "timeMonth": 1330,
+    "time": 1438,
+    "timeDay": 734,
+    "timeWeek": 722,
+    "timeMonth": 1324,
     "timeYear": 1431,
     "dailyMinutesDown": {
       "2024-01-13": 26,
@@ -342,8 +341,7 @@
       "2023-02-16": 52,
       "2023-02-14": 60,
       "2023-02-12": 40,
-      "2023-02-08": 23,
-      "2023-01-25": 29
+      "2023-02-08": 23
     }
   }
 ]
