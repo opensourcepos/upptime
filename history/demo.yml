@@ -1,7 +1,7 @@
 url: https://demo.opensourcepos.org
-status: down
-code: 500
-responseTime: 956
-lastUpdated: 2024-10-02T19:40:10.666Z
+status: up
+code: 200
+responseTime: 558
+lastUpdated: 2024-10-02T22:20:40.645Z
 startTime: 2020-12-28T11:04:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
