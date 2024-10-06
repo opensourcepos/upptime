@@ -6,7 +6,7 @@
     "slug": "demo",
     "status": "up",
     "uptime": "95.09%",
-    "uptimeDay": "79.93%",
+    "uptimeDay": "81.64%",
     "uptimeWeek": "77.28%",
     "uptimeMonth": "87.18%",
     "uptimeYear": "83.88%",
@@ -144,7 +144,7 @@
     "slug": "dev",
     "status": "up",
     "uptime": "85.83%",
-    "uptimeDay": "79.93%",
+    "uptimeDay": "81.64%",
     "uptimeWeek": "53.53%",
     "uptimeMonth": "77.83%",
     "uptimeYear": "75.09%",
@@ -295,16 +295,16 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "45.74%",
-    "uptimeWeek": "6.53%",
+    "uptimeDay": "47.44%",
+    "uptimeWeek": "6.78%",
     "uptimeMonth": "62.68%",
     "uptimeYear": "96.65%",
     "time": 1189,
-    "timeDay": 1304,
-    "timeWeek": 2101,
-    "timeMonth": 1533,
+    "timeDay": 1283,
+    "timeWeek": 2057,
+    "timeMonth": 1529,
     "timeYear": 1234,
     "dailyMinutesDown": {
       "2024-10-06": 503,
@@ -335,8 +335,7 @@
       "2024-07-15": 210,
       "2024-07-14": 258,
       "2024-07-11": 77,
-      "2024-07-07": 69,
-      "2024-07-02": 36
+      "2024-07-07": 69
     }
   }
 ]
