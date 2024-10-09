@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "94.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.44%",
-    "uptimeMonth": "81.76%",
+    "uptimeWeek": "61.32%",
+    "uptimeMonth": "81.73%",
     "uptimeYear": "83.43%",
     "time": 1394,
     "timeDay": 500,
@@ -16,7 +16,7 @@
     "timeMonth": 1800,
     "timeYear": 1407,
     "dailyMinutesDown": {
-      "2024-10-09": 287,
+      "2024-10-09": 300,
       "2024-10-08": 1440,
       "2024-10-07": 665,
       "2024-10-05": 1306,
@@ -149,7 +149,7 @@
     "uptime": "85.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "52.59%",
-    "uptimeMonth": "72.41%",
+    "uptimeMonth": "72.38%",
     "uptimeYear": "75.30%",
     "time": 1274,
     "timeDay": 563,
@@ -157,7 +157,7 @@
     "timeMonth": 1210,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2024-10-09": 287,
+      "2024-10-09": 300,
       "2024-10-08": 1440,
       "2024-10-07": 665,
       "2024-10-05": 1306,
@@ -298,16 +298,16 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "49.82%",
-    "uptimeWeek": "25.07%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "50.67%",
+    "uptimeWeek": "25.19%",
     "uptimeMonth": "58.97%",
-    "uptimeYear": "96.50%",
+    "uptimeYear": "96.51%",
     "time": 1160,
     "timeDay": 1047,
-    "timeWeek": 1148,
-    "timeMonth": 1398,
+    "timeWeek": 1147,
+    "timeMonth": 1396,
     "timeYear": 1216,
     "dailyMinutesDown": {
       "2024-10-09": 103,
@@ -336,7 +336,7 @@
       "2024-08-10": 155,
       "2024-08-09": 22,
       "2024-08-08": 30,
-      "2024-07-17": 113
+      "2024-07-17": 64
     }
   }
 ]
