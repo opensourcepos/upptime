@@ -1,7 +1,7 @@
 url: https://translate.opensourcepos.org
-status: down
-code: 500
-responseTime: 1076
-lastUpdated: 2024-10-12T23:39:34.539Z
+status: up
+code: 200
+responseTime: 514
+lastUpdated: 2024-10-13T01:12:42.929Z
 startTime: 2020-12-28T11:04:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
