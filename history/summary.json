@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "94.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.74%",
+    "uptimeWeek": "70.00%",
     "uptimeMonth": "69.51%",
     "uptimeYear": "82.59%",
     "time": 1367,
@@ -148,8 +148,8 @@
     "status": "up",
     "uptime": "85.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.49%",
-    "uptimeMonth": "60.58%",
+    "uptimeWeek": "69.76%",
+    "uptimeMonth": "60.64%",
     "uptimeYear": "76.63%",
     "time": 1255,
     "timeDay": 1015,
@@ -294,16 +294,16 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "64.89%",
-    "uptimeWeek": "53.71%",
-    "uptimeMonth": "88.54%",
-    "uptimeYear": "99.04%",
+    "uptimeDay": "66.71%",
+    "uptimeWeek": "53.72%",
+    "uptimeMonth": "88.69%",
+    "uptimeYear": "99.06%",
     "time": 1162,
-    "timeDay": 1071,
-    "timeWeek": 1091,
-    "timeMonth": 1255,
+    "timeDay": 1067,
+    "timeWeek": 1090,
+    "timeMonth": 1256,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2024-10-17": 465,
@@ -313,7 +313,7 @@
       "2024-10-13": 707,
       "2024-10-12": 726,
       "2024-10-11": 728,
-      "2024-10-10": 471
+      "2024-10-10": 404
     }
   }
 ]
