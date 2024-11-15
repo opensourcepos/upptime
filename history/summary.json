@@ -141,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "85.71%",
+    "uptime": "85.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.51%",
@@ -274,18 +274,19 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "93.99%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "98.14%",
     "uptimeWeek": "98.29%",
-    "uptimeMonth": "90.21%",
-    "uptimeYear": "99.04%",
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "99.05%",
     "time": 1154,
-    "timeDay": 1516,
-    "timeWeek": 1322,
-    "timeMonth": 1106,
+    "timeDay": 1136,
+    "timeWeek": 1307,
+    "timeMonth": 1114,
     "timeYear": 1173,
     "dailyMinutesDown": {
+      "2024-11-15": 0,
       "2024-11-14": 87,
       "2024-11-13": 86,
       "2024-10-21": 231,
@@ -296,7 +297,7 @@
       "2024-10-16": 593,
       "2024-10-15": 645,
       "2024-10-14": 686,
-      "2024-10-13": 75
+      "2024-10-13": 25
     }
   }
 ]
