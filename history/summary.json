@@ -6,12 +6,12 @@
     "slug": "demo",
     "status": "up",
     "uptime": "94.81%",
-    "uptimeDay": "97.36%",
+    "uptimeDay": "98.25%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "97.85%",
     "uptimeYear": "83.69%",
     "time": 1330,
-    "timeDay": 7568,
+    "timeDay": 11090,
     "timeWeek": 2096,
     "timeMonth": 1090,
     "timeYear": 1337,
@@ -133,8 +133,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1340,
-      "2023-11-18": 296
+      "2023-11-27": 1340
     }
   },
   {
@@ -143,13 +142,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "85.72%",
-    "uptimeDay": "97.45%",
+    "uptime": "85.73%",
+    "uptimeDay": "98.34%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "93.25%",
     "uptimeYear": "81.42%",
     "time": 1295,
-    "timeDay": 10028,
+    "timeDay": 13104,
     "timeWeek": 3783,
     "timeMonth": 1851,
     "timeYear": 1455,
@@ -269,8 +268,7 @@
       "2023-12-26": 43,
       "2023-12-25": 102,
       "2023-12-24": 680,
-      "2023-12-20": 763,
-      "2023-11-18": 296
+      "2023-12-20": 763
     }
   },
   {
