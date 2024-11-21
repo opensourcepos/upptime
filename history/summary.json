@@ -142,10 +142,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "85.76%",
+    "uptime": "85.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.24%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "81.48%",
     "time": 1293,
     "timeDay": 1035,
@@ -278,9 +278,9 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "93.54%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "99.14%",
     "time": 1156,
     "timeDay": 1060,
@@ -288,7 +288,7 @@
     "timeMonth": 1087,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2024-11-20": 70,
+      "2024-11-20": 57,
       "2024-11-19": 59,
       "2024-11-18": 141,
       "2024-11-17": 61,
@@ -302,7 +302,7 @@
       "2024-10-18": 536,
       "2024-10-17": 531,
       "2024-10-16": 593,
-      "2024-10-15": 305
+      "2024-10-15": 331
     }
   }
 ]
