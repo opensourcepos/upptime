@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.84%",
     "time": 1285,
-    "timeDay": 755,
-    "timeWeek": 766,
-    "timeMonth": 668,
+    "timeDay": 752,
+    "timeWeek": 795,
+    "timeMonth": 677,
     "timeYear": 1273,
     "dailyMinutesDown": {
       "2024-12-09": 18,
@@ -116,8 +116,7 @@
       "2024-02-01": 107,
       "2024-01-31": 18,
       "2024-01-28": 1360,
-      "2024-01-27": 1440,
-      "2024-01-26": 1440
+      "2024-01-27": 1440
     }
   },
   {
@@ -130,10 +129,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.95%",
+    "uptimeYear": "82.98%",
     "time": 1349,
-    "timeDay": 807,
-    "timeWeek": 1214,
+    "timeDay": 881,
+    "timeWeek": 1220,
     "timeMonth": 1247,
     "timeYear": 1355,
     "dailyMinutesDown": {
@@ -239,8 +238,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 107,
       "2024-01-28": 1360,
-      "2024-01-27": 1440,
-      "2024-01-26": 1440
+      "2024-01-27": 1440
     }
   },
   {
@@ -250,17 +248,16 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "91.43%",
-    "uptimeMonth": "98.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "98.06%",
     "uptimeYear": "99.25%",
-    "time": 1206,
-    "timeDay": 863,
-    "timeWeek": 1965,
-    "timeMonth": 1700,
+    "time": 1205,
+    "timeDay": 918,
+    "timeWeek": 1967,
+    "timeMonth": 1702,
     "timeYear": 1195,
     "dailyMinutesDown": {
-      "2025-01-24": 13,
       "2025-01-23": 253,
       "2025-01-22": 41,
       "2025-01-21": 261,
@@ -280,7 +277,7 @@
       "2024-10-21": 231,
       "2024-10-20": 749,
       "2024-10-19": 832,
-      "2024-10-18": 70
+      "2024-10-18": 95
     }
   }
 ]
