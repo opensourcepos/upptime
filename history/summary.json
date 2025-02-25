@@ -11,9 +11,9 @@
     "uptimeMonth": "96.60%",
     "uptimeYear": "91.51%",
     "time": 1282,
-    "timeDay": 700,
-    "timeWeek": 631,
-    "timeMonth": 690,
+    "timeDay": 566,
+    "timeWeek": 611,
+    "timeMonth": 684,
     "timeYear": 1264,
     "dailyMinutesDown": {
       "2025-01-26": 1277,
@@ -92,8 +92,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 553,
       "2024-03-01": 16,
-      "2024-02-27": 653,
-      "2024-02-26": 1001
+      "2024-02-27": 653
     }
   },
   {
@@ -102,16 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "86.50%",
+    "uptime": "86.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.60%",
     "uptimeYear": "88.73%",
-    "time": 1378,
-    "timeDay": 1291,
-    "timeWeek": 1291,
-    "timeMonth": 1258,
-    "timeYear": 1398,
+    "time": 1379,
+    "timeDay": 1556,
+    "timeWeek": 1311,
+    "timeMonth": 1279,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-01-26": 1277,
       "2025-01-25": 212,
@@ -192,8 +191,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 552,
-      "2024-02-27": 653,
-      "2024-02-26": 1001
+      "2024-02-27": 653
     }
   },
   {
@@ -208,9 +206,9 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.30%",
     "time": 1202,
-    "timeDay": 954,
-    "timeWeek": 783,
-    "timeMonth": 1069,
+    "timeDay": 893,
+    "timeWeek": 787,
+    "timeMonth": 1072,
     "timeYear": 1198,
     "dailyMinutesDown": {
       "2025-01-26": 58,
