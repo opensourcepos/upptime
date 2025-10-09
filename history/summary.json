@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "96.86%",
-    "time": 1129,
-    "timeDay": 1219,
-    "timeWeek": 896,
-    "timeMonth": 1995,
-    "timeYear": 1105,
+    "uptimeYear": "97.06%",
+    "time": 1131,
+    "timeDay": 2225,
+    "timeWeek": 1112,
+    "timeMonth": 2012,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2025-09-27": 20,
       "2025-09-22": 23,
@@ -64,8 +64,7 @@
       "2024-10-18": 77,
       "2024-10-12": 1370,
       "2024-10-11": 1440,
-      "2024-10-10": 1440,
-      "2024-10-09": 1440
+      "2024-10-10": 1440
     }
   },
   {
@@ -74,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "down",
-    "uptime": "93.38%",
+    "uptime": "93.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "20.01%",
+    "uptimeMonth": "17.75%",
     "uptimeYear": "85.03%",
     "time": 1243,
-    "timeDay": 470,
-    "timeWeek": 594,
-    "timeMonth": 1107,
-    "timeYear": 1272,
+    "timeDay": 1280,
+    "timeWeek": 679,
+    "timeMonth": 1113,
+    "timeYear": 1273,
     "dailyMinutesDown": {
-      "2025-10-08": 463,
+      "2025-10-09": 103,
+      "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -169,8 +169,7 @@
       "2024-10-13": 25,
       "2024-10-12": 1370,
       "2024-10-11": 1440,
-      "2024-10-10": 1440,
-      "2024-10-09": 1440
+      "2024-10-10": 1440
     }
   },
   {
@@ -180,17 +179,16 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "94.68%",
-    "time": 1279,
-    "timeDay": 1236,
-    "timeWeek": 963,
-    "timeMonth": 1649,
-    "timeYear": 1260,
+    "time": 1277,
+    "timeDay": 1635,
+    "timeWeek": 941,
+    "timeMonth": 1664,
+    "timeYear": 1263,
     "dailyMinutesDown": {
-      "2025-10-08": 11,
       "2025-10-07": 24,
       "2025-09-27": 103,
       "2025-09-26": 16,
@@ -235,7 +233,8 @@
       "2025-06-17": 19,
       "2025-06-15": 48,
       "2025-06-11": 16,
-      "2025-05-18": 26
+      "2025-05-18": 26,
+      "2025-05-02": 25
     }
   }
 ]
