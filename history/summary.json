@@ -69,17 +69,17 @@
     "url": "https://dev.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
-    "status": "up",
-    "uptime": "92.98%",
-    "uptimeDay": "40.41%",
-    "uptimeWeek": "31.76%",
-    "uptimeMonth": "16.46%",
-    "uptimeYear": "84.17%",
+    "status": "down",
+    "uptime": "93.00%",
+    "uptimeDay": "44.45%",
+    "uptimeWeek": "32.34%",
+    "uptimeMonth": "16.60%",
+    "uptimeYear": "84.18%",
     "time": 1250,
-    "timeDay": 1133,
-    "timeWeek": 1162,
-    "timeMonth": 1127,
-    "timeYear": 1284,
+    "timeDay": 1107,
+    "timeWeek": 1155,
+    "timeMonth": 1126,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2025-10-20": 119,
       "2025-10-19": 1440,
@@ -180,9 +180,9 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "94.67%",
     "time": 1281,
     "timeDay": 887,
@@ -190,7 +190,6 @@
     "timeMonth": 1272,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2025-10-20": 13,
       "2025-10-17": 32,
       "2025-10-14": 86,
       "2025-10-07": 24,
@@ -235,7 +234,7 @@
       "2025-06-30": 25,
       "2025-06-24": 26,
       "2025-06-17": 19,
-      "2025-06-15": 19
+      "2025-06-15": 48
     }
   }
 ]
