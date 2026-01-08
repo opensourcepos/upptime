@@ -14,7 +14,7 @@
     "timeDay": 1578,
     "timeWeek": 1322,
     "timeMonth": 2516,
-    "timeYear": 1615,
+    "timeYear": 1617,
     "dailyMinutesDown": {
       "2025-12-28": 683,
       "2025-12-27": 1440,
@@ -94,7 +94,7 @@
     "timeDay": 1669,
     "timeWeek": 1391,
     "timeMonth": 1540,
-    "timeYear": 1284,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2025-12-28": 684,
       "2025-12-27": 1440,
@@ -238,18 +238,19 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.66%",
     "uptimeYear": "94.32%",
-    "time": 1617,
+    "time": 1618,
     "timeDay": 1014,
     "timeWeek": 980,
     "timeMonth": 3490,
-    "timeYear": 1717,
+    "timeYear": 1718,
     "dailyMinutesDown": {
+      "2026-01-08": 0,
       "2025-12-29": 18,
       "2025-12-23": 139,
       "2025-12-22": 46,
@@ -310,7 +311,7 @@
       "2025-07-17": 670,
       "2025-07-16": 462,
       "2025-07-15": 422,
-      "2025-07-14": 104
+      "2025-07-14": 88
     }
   }
 ]
