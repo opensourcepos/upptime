@@ -85,7 +85,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "93.92%",
+    "uptime": "93.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.60%",
@@ -240,9 +240,9 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "57.23%",
-    "uptimeWeek": "86.71%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "66.64%",
+    "uptimeWeek": "86.84%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "94.24%",
     "time": 1954,
     "timeDay": 12586,
@@ -250,7 +250,7 @@
     "timeMonth": 6389,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2026-01-14": 616,
+      "2026-01-14": 602,
       "2026-01-13": 441,
       "2026-01-12": 55,
       "2026-01-11": 17,
@@ -314,7 +314,7 @@
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 670,
-      "2025-07-16": 22
+      "2025-07-16": 43
     }
   }
 ]
