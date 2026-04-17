@@ -6,14 +6,14 @@
     "slug": "demo",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "39.06%",
-    "uptimeWeek": "84.43%",
+    "uptimeDay": "63.92%",
+    "uptimeWeek": "85.65%",
     "uptimeMonth": "87.33%",
-    "uptimeYear": "96.36%",
+    "uptimeYear": "96.38%",
     "time": 1559,
-    "timeDay": 691,
-    "timeWeek": 849,
-    "timeMonth": 1577,
+    "timeDay": 722,
+    "timeWeek": 815,
+    "timeMonth": 1569,
     "timeYear": 1770,
     "dailyMinutesDown": {
       "2026-04-16": 696,
@@ -88,8 +88,7 @@
       "2025-06-04": 15,
       "2025-05-18": 28,
       "2025-05-07": 24,
-      "2025-05-02": 26,
-      "2025-04-17": 506
+      "2025-05-02": 26
     }
   },
   {
@@ -102,11 +101,11 @@
     "uptimeDay": "95.65%",
     "uptimeWeek": "94.92%",
     "uptimeMonth": "85.39%",
-    "uptimeYear": "72.98%",
-    "time": 1274,
-    "timeDay": 933,
-    "timeWeek": 996,
-    "timeMonth": 1205,
+    "uptimeYear": "73.00%",
+    "time": 1273,
+    "timeDay": 1134,
+    "timeWeek": 962,
+    "timeMonth": 1212,
     "timeYear": 1229,
     "dailyMinutesDown": {
       "2026-04-16": 63,
@@ -256,8 +255,7 @@
       "2025-06-05": 26,
       "2025-06-04": 15,
       "2025-05-07": 24,
-      "2025-05-02": 26,
-      "2025-04-17": 452
+      "2025-05-02": 26
     }
   },
   {
@@ -267,14 +265,14 @@
     "slug": "weblate",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "95.43%",
-    "uptimeWeek": "92.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.61%",
     "uptimeMonth": "83.64%",
     "uptimeYear": "98.01%",
     "time": 2713,
-    "timeDay": 671,
-    "timeWeek": 839,
-    "timeMonth": 3956,
+    "timeDay": 1092,
+    "timeWeek": 874,
+    "timeMonth": 3959,
     "timeYear": 2900,
     "dailyMinutesDown": {
       "2026-04-15": 251,
