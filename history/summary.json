@@ -269,14 +269,14 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "87.01%",
+    "uptimeDay": "88.59%",
     "uptimeWeek": "87.69%",
     "uptimeMonth": "83.10%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 2573,
-    "timeDay": 739,
+    "timeDay": 772,
     "timeWeek": 880,
     "timeMonth": 3547,
     "timeYear": 2861,
@@ -329,7 +329,7 @@
       "2026-01-20": 400,
       "2026-01-18": 345,
       "2026-01-17": 672,
-      "2026-01-16": 184
+      "2026-01-16": 152
     }
   }
 ]
