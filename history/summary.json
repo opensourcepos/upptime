@@ -111,7 +111,7 @@
     "uptime": "94.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.14%",
+    "uptimeMonth": "60.41%",
     "uptimeYear": "69.42%",
     "time": 1261,
     "timeDay": 2172,
@@ -292,11 +292,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "97.81%",
+    "uptime": "99.59%",
+    "uptimeDay": "91.63%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "97.78%",
     "time": 2640,
     "timeDay": 2640,
     "timeWeek": 1753,
@@ -361,7 +361,7 @@
       "2026-05-13": 125,
       "2026-05-24": 73,
       "2026-05-26": 64,
-      "2026-05-30": 0
+      "2026-05-30": 121
     }
   }
 ]
