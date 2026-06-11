@@ -4,17 +4,17 @@
     "url": "https://demo.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.31%",
     "uptimeYear": "95.73%",
     "time": 1601,
-    "timeDay": 714,
-    "timeWeek": 1060,
-    "timeMonth": 996,
-    "timeYear": 1802,
+    "timeDay": 585,
+    "timeWeek": 984,
+    "timeMonth": 982,
+    "timeYear": 1799,
     "dailyMinutesDown": {
       "2025-06-13": 19,
       "2025-06-15": 32,
@@ -96,7 +96,8 @@
       "2026-05-18": 605,
       "2026-05-17": 149,
       "2026-05-20": 495,
-      "2026-05-19": 632
+      "2026-05-19": 632,
+      "2026-06-11": 0
     }
   },
   {
@@ -104,17 +105,17 @@
     "url": "https://dev.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "94.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.71%",
     "uptimeYear": "69.42%",
     "time": 1267,
-    "timeDay": 2108,
-    "timeWeek": 1556,
-    "timeMonth": 1372,
-    "timeYear": 1256,
+    "timeDay": 1285,
+    "timeWeek": 1419,
+    "timeMonth": 1347,
+    "timeYear": 1255,
     "dailyMinutesDown": {
       "2025-06-15": 51,
       "2025-06-30": 422,
@@ -278,7 +279,8 @@
       "2026-05-18": 605,
       "2026-05-17": 148,
       "2026-05-20": 495,
-      "2026-05-19": 632
+      "2026-05-19": 632,
+      "2026-06-11": 0
     }
   },
   {
@@ -296,7 +298,7 @@
     "timeDay": 1235,
     "timeWeek": 977,
     "timeMonth": 2526,
-    "timeYear": 2936,
+    "timeYear": 2938,
     "dailyMinutesDown": {
       "2026-01-17": 25,
       "2026-01-18": 345,
