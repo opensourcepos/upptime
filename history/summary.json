@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
     "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.31%",
-    "uptimeYear": "95.73%",
+    "uptime": "98.68%",
+    "uptimeDay": "74.05%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "92.46%",
+    "uptimeYear": "95.66%",
     "time": 1601,
-    "timeDay": 585,
-    "timeWeek": 984,
-    "timeMonth": 982,
+    "timeDay": 468,
+    "timeWeek": 953,
+    "timeMonth": 979,
     "timeYear": 1799,
     "dailyMinutesDown": {
       "2025-06-13": 19,
@@ -97,7 +97,8 @@
       "2026-05-17": 149,
       "2026-05-20": 495,
       "2026-05-19": 632,
-      "2026-06-11": 0
+      "2026-06-12": 263,
+      "2026-06-11": 111
     }
   },
   {
@@ -106,16 +107,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "down",
-    "uptime": "94.22%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "69.42%",
-    "time": 1267,
-    "timeDay": 1285,
-    "timeWeek": 1419,
-    "timeMonth": 1347,
-    "timeYear": 1255,
+    "uptime": "94.21%",
+    "uptimeDay": "74.07%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "94.85%",
+    "uptimeYear": "69.35%",
+    "time": 1265,
+    "timeDay": 464,
+    "timeWeek": 1281,
+    "timeMonth": 1334,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2025-06-15": 51,
       "2025-06-30": 422,
@@ -280,7 +281,8 @@
       "2026-05-17": 148,
       "2026-05-20": 495,
       "2026-05-19": 632,
-      "2026-06-11": 0
+      "2026-06-12": 263,
+      "2026-06-11": 111
     }
   },
   {
@@ -295,9 +297,9 @@
     "uptimeMonth": "98.68%",
     "uptimeYear": "97.76%",
     "time": 2642,
-    "timeDay": 1235,
-    "timeWeek": 977,
-    "timeMonth": 2526,
+    "timeDay": 747,
+    "timeWeek": 992,
+    "timeMonth": 2527,
     "timeYear": 2938,
     "dailyMinutesDown": {
       "2026-01-17": 25,
