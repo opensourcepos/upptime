@@ -4,17 +4,17 @@
     "url": "https://demo.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.75%",
-    "uptimeMonth": "95.99%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "93.73%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "95.62%",
-    "time": 1641,
-    "timeDay": 1115,
-    "timeWeek": 3540,
-    "timeMonth": 1707,
-    "timeYear": 1843,
+    "time": 1640,
+    "timeDay": 797,
+    "timeWeek": 3234,
+    "timeMonth": 1673,
+    "timeYear": 1841,
     "dailyMinutesDown": {
       "2025-06-24": 25,
       "2025-06-30": 26,
@@ -96,7 +96,8 @@
       "2026-05-20": 495,
       "2026-05-19": 632,
       "2026-06-12": 519,
-      "2026-06-11": 111
+      "2026-06-11": 111,
+      "2026-06-18": 2
     }
   },
   {
@@ -104,17 +105,17 @@
     "url": "https://dev.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "94.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.75%",
-    "uptimeMonth": "95.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "93.73%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "69.31%",
-    "time": 1278,
-    "timeDay": 2093,
-    "timeWeek": 2062,
-    "timeMonth": 1576,
-    "timeYear": 1264,
+    "time": 1277,
+    "timeDay": 1263,
+    "timeWeek": 1899,
+    "timeMonth": 1544,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2025-06-30": 422,
       "2025-06-29": 1440,
@@ -279,7 +280,8 @@
       "2026-05-20": 495,
       "2026-05-19": 632,
       "2026-06-12": 519,
-      "2026-06-11": 111
+      "2026-06-11": 111,
+      "2026-06-18": 2
     }
   },
   {
@@ -287,17 +289,17 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "86.10%",
-    "uptimeWeek": "93.94%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.72%",
-    "time": 2739,
-    "timeDay": 14342,
-    "timeWeek": 7674,
-    "timeMonth": 3510,
-    "timeYear": 3031,
+    "uptimeDay": "76.52%",
+    "uptimeWeek": "92.57%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.69%",
+    "time": 2738,
+    "timeDay": 11625,
+    "timeWeek": 7213,
+    "timeMonth": 3449,
+    "timeYear": 3028,
     "dailyMinutesDown": {
       "2026-01-20": 400,
       "2026-01-31": 31,
@@ -358,7 +360,7 @@
       "2026-05-30": 226,
       "2026-06-13": 95,
       "2026-06-14": 315,
-      "2026-06-18": 200
+      "2026-06-18": 338
     }
   }
 ]
