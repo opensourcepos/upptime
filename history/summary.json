@@ -291,11 +291,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "76.79%",
-    "uptimeWeek": "82.85%",
-    "uptimeMonth": "94.46%",
-    "uptimeYear": "97.52%",
+    "uptime": "99.54%",
+    "uptimeDay": "61.87%",
+    "uptimeWeek": "80.72%",
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "97.48%",
     "time": 2875,
     "timeDay": 11788,
     "timeWeek": 8706,
@@ -363,7 +363,7 @@
       "2026-06-21": 230,
       "2026-06-23": 506,
       "2026-06-24": 334,
-      "2026-06-25": 0
+      "2026-06-25": 215
     }
   }
 ]
