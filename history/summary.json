@@ -283,17 +283,17 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "92.83%",
-    "uptimeMonth": "91.22%",
-    "uptimeYear": "97.32%",
-    "time": 3018,
-    "timeDay": 1390,
-    "timeWeek": 5471,
-    "timeMonth": 6654,
-    "timeYear": 3274,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "84.27%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "90.88%",
+    "uptimeYear": "97.29%",
+    "time": 3058,
+    "timeDay": 11422,
+    "timeWeek": 7724,
+    "timeMonth": 7190,
+    "timeYear": 3317,
     "dailyMinutesDown": {
       "2026-03-12": 59,
       "2026-03-13": 33,
@@ -355,7 +355,7 @@
       "2026-06-29": 116,
       "2026-07-01": 252,
       "2026-07-02": 277,
-      "2026-07-05": 78
+      "2026-07-05": 226
     }
   }
 ]
