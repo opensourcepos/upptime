@@ -107,7 +107,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.25%",
-    "uptimeYear": "70.43%",
+    "uptimeYear": "70.46%",
     "time": 1298,
     "timeDay": 1821,
     "timeWeek": 2112,
@@ -279,17 +279,17 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "92.51%",
-    "uptimeMonth": "90.88%",
-    "uptimeYear": "97.31%",
-    "time": 3079,
-    "timeDay": 10597,
-    "timeWeek": 8588,
-    "timeMonth": 7414,
-    "timeYear": 3346,
+    "uptimeDay": "87.08%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "97.27%",
+    "time": 3094,
+    "timeDay": 12146,
+    "timeWeek": 8980,
+    "timeMonth": 7531,
+    "timeYear": 3360,
     "dailyMinutesDown": {
       "2026-03-13": 33,
       "2026-03-14": 37,
@@ -351,7 +351,7 @@
       "2026-07-01": 252,
       "2026-07-02": 277,
       "2026-07-05": 226,
-      "2026-07-07": 0
+      "2026-07-07": 186
     }
   }
 ]
