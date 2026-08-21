@@ -4,17 +4,17 @@
     "url": "https://demo.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "61.13%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "61.12%",
     "uptimeMonth": "77.37%",
     "uptimeYear": "94.16%",
-    "time": 1831,
-    "timeDay": 1029,
-    "timeWeek": 867,
-    "timeMonth": 1716,
-    "timeYear": 2045,
+    "time": 1832,
+    "timeDay": 1116,
+    "timeWeek": 897,
+    "timeMonth": 1704,
+    "timeYear": 2044,
     "dailyMinutesDown": {
       "2025-09-07": 29,
       "2025-09-10": 34,
@@ -94,7 +94,8 @@
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 560,
-      "2026-08-19": 19
+      "2026-08-19": 19,
+      "2026-08-21": 1
     }
   },
   {
@@ -275,10 +276,10 @@
     "slug": "weblate",
     "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "75.20%",
+    "uptimeDay": "73.08%",
     "uptimeWeek": "54.90%",
-    "uptimeMonth": "38.43%",
-    "uptimeYear": "92.30%",
+    "uptimeMonth": "38.36%",
+    "uptimeYear": "92.29%",
     "time": 4216,
     "timeDay": 16709,
     "timeWeek": 11308,
@@ -362,7 +363,7 @@
       "2026-07-30": 1440,
       "2026-07-29": 236,
       "2026-08-20": 357,
-      "2026-08-21": 0
+      "2026-08-21": 31
     }
   }
 ]
