@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opensourcepos.org.ico",
     "slug": "demo",
     "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "64.44%",
+    "uptime": "98.65%",
+    "uptimeDay": "60.64%",
     "uptimeWeek": "58.55%",
-    "uptimeMonth": "76.21%",
-    "uptimeYear": "94.06%",
+    "uptimeMonth": "76.08%",
+    "uptimeYear": "94.05%",
     "time": 1832,
     "timeDay": 1116,
     "timeWeek": 916,
@@ -95,7 +95,7 @@
       "2026-08-15": 1440,
       "2026-08-14": 560,
       "2026-08-19": 19,
-      "2026-08-21": 512
+      "2026-08-21": 567
     }
   },
   {
@@ -104,10 +104,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
     "status": "down",
-    "uptime": "94.19%",
-    "uptimeDay": "69.32%",
+    "uptime": "94.18%",
+    "uptimeDay": "65.51%",
     "uptimeWeek": "59.44%",
-    "uptimeMonth": "78.73%",
+    "uptimeMonth": "78.60%",
     "uptimeYear": "70.72%",
     "time": 1286,
     "timeDay": 896,
@@ -267,7 +267,7 @@
       "2026-08-17": 460,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
-      "2026-08-21": 442
+      "2026-08-21": 497
     }
   },
   {
@@ -275,17 +275,17 @@
     "url": "https://translate.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.opensourcepos.org.ico",
     "slug": "weblate",
-    "status": "down",
-    "uptime": "98.64%",
-    "uptimeDay": "71.43%",
+    "status": "up",
+    "uptime": "98.63%",
+    "uptimeDay": "71.45%",
     "uptimeWeek": "58.31%",
-    "uptimeMonth": "37.97%",
-    "uptimeYear": "92.29%",
-    "time": 4215,
-    "timeDay": 5600,
-    "timeWeek": 8041,
-    "timeMonth": 12597,
-    "timeYear": 4541,
+    "uptimeMonth": "37.85%",
+    "uptimeYear": "92.28%",
+    "time": 4214,
+    "timeDay": 5241,
+    "timeWeek": 7754,
+    "timeMonth": 12357,
+    "timeYear": 4535,
     "dailyMinutesDown": {
       "2026-03-21": 35,
       "2026-03-24": 219,
@@ -363,7 +363,7 @@
       "2026-07-30": 1440,
       "2026-07-29": 236,
       "2026-08-20": 357,
-      "2026-08-21": 198
+      "2026-08-21": 253
     }
   }
 ]
