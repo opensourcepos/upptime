@@ -107,17 +107,17 @@
     "url": "https://dev.opensourcepos.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev.opensourcepos.org.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "93.46%",
-    "uptimeDay": "26.90%",
-    "uptimeWeek": "3.84%",
+    "uptimeDay": "60.02%",
+    "uptimeWeek": "8.57%",
     "uptimeMonth": "35.27%",
     "uptimeYear": "68.25%",
     "time": 1276,
-    "timeDay": 1274,
-    "timeWeek": 807,
-    "timeMonth": 1062,
-    "timeYear": 1317,
+    "timeDay": 969,
+    "timeWeek": 757,
+    "timeMonth": 1045,
+    "timeYear": 1315,
     "dailyMinutesDown": {
       "2025-09-10": 886,
       "2025-09-17": 1056,
@@ -279,7 +279,8 @@
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
-      "2026-09-01": 1440
+      "2026-09-01": 1440,
+      "2026-09-09": 0
     }
   },
   {
@@ -291,7 +292,7 @@
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.86%",
+    "uptimeMonth": "71.95%",
     "uptimeYear": "92.31%",
     "time": 4236,
     "timeDay": 730,
